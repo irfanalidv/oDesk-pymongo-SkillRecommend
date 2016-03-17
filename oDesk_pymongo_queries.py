@@ -32,7 +32,7 @@ conn
 # In[7]:
 
 #Set basepath
-basepath = 'D:\Side Projects\Python\Aaron\GET\Aaron_subfolder_copy\data'
+basepath = 'D:\Python\GET\data'
 
 
 # In[8]:
